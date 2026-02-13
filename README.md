@@ -29,7 +29,7 @@ The goal of this project is to demonstrate **data analysis, data visualization, 
 ---
 
 ## 🖼 Dashboard Preview
->  Dashboard.png
+      Dashboard.png
 
 
 
